@@ -1,0 +1,1 @@
+import { mcp as _ } from "@mintlify/mcp";
