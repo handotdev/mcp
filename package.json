@@ -24,7 +24,7 @@
     "clean:all": "rimraf node_modules"
   },
   "dependencies": {
-    "@mintlify/mcp": "^1.0.7"
+    "@mintlify/mcp": "^1.1.6"
   },
   "devDependencies": {
     "rimraf": "^5.0.1"
