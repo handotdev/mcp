@@ -1,7 +1,6 @@
 {
   "name": "mcp",
-  "version": "1.4.1",
-  "description": "The Mintlify MCP CLI",
+  "version": "1.4.2",
   "engines": {
     "node": ">=18.0.0"
   },
